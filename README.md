@@ -1,8 +1,6 @@
-## AirLineManager
+# AirLineManager
 
-# In Development
-No Release Version Available.
-No Testing Version Available.
+## In Development
+No Release Or Testing branch.
 
-
-# Dev Blog:
+## Dev Blog:
